@@ -2,9 +2,9 @@
   "name": "express-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/API/index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon src/API/index.js"
   },
   "keywords": [],
   "author": "",
